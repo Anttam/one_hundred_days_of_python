@@ -1,0 +1,2 @@
+# Day 2
+This project is a tip calculator. It takes a total, the number of people you want to split the bill with, and the percent of the bill you would like to give as a tip. the program then calculates the amount that each person should pay
