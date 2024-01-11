@@ -1,0 +1,2 @@
+# Day 6
+The project for today is a robot soloving a maze. The challenge is to implement an algorithm that will get the robot to the goal. This challenge is completed on reeborg.ca and as such, some of the code is pre-written. I will provide a sudo code in python to demonstrate the way that I implemented the algorithm 
