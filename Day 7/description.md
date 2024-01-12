@@ -1,0 +1,2 @@
+# Day 7
+The project for today is a hangman game. The user is given underscores to represent the length of the secret word and prompted to enter a letter they believe is in the word. If the user guesses a letter in the word, The letter is revealed in the place it is in the word. If the user guesses incorrectly, another piece of the hangman is displayed.
