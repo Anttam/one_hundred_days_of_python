@@ -1,0 +1,2 @@
+# Day 8
+The project for today is a simple caesar's cipher. The user chooses to either encrypt or decrypt a message. The user then enters the message and the number they would like to shift the message. The encrypted or decrypted message is then printed.
