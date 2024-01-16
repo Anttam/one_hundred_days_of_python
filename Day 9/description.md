@@ -1,0 +1,2 @@
+# Day 9
+Today's project is a silent auction. The user enter's their name and the amount they would like to bid. They are then asked if there are any more bidders. If there are, the program loops and asks the next bidder for the same information. If there are no more bidders, the program checks which bidder has the highest bid and prints the winner with the amount the bidded.
