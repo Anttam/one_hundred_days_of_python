@@ -1,0 +1,2 @@
+# Day 10
+The project for today is a simple calculator. The user selects the first number, an operation, then finally a second number. The program then calculates the answer and prints the equation. The user is then prompted to continue using the result in further calculations, use a new input for a calculation, or quit the program.
