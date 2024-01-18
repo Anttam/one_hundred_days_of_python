@@ -1,0 +1,2 @@
+# Day 11
+The project for today is a simple blackjack game. The user is given 2 cards and shown the opponent's first card. The user can then decide if they would like to hit (get another card) or stand (stay with the cards they have). If the user's card total goes over 21, they Bust and lose. If the user has an ace (an 11 for simplicity) and the total is over 21, the card is counted as a 1 instead. If the user stands, the computer will hit until the total of it's cards is greater than 18. The winner will then be determined based on who is closest to 21 without going over.
