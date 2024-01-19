@@ -1,0 +1,2 @@
+# Day 12 
+The project for today is a number guessing game. The user selects a difficulty which gives them either 5 or 10 attempts to guess the number. They are then given a hint as to whether the number is higher or lower than their previous guess. If they guess the correct number, they are given a win message. If they fail to guess the number, they are given a lose message.
