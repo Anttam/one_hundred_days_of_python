@@ -1,0 +1,2 @@
+# Day 14
+The project for today is a higher or lower game. The user is given 2 accounts, a brief description of the company or person, and they have to guess who has the higher follower count. If they guess correct, the second account becomes the first account and a new second account is generated and their score increases by 1. If they guess incorrectly, the game ends and the score is printed.
