@@ -1,0 +1,2 @@
+# Day 16
+The project for today is a refactor of the coffee machine project from day 15. Instead of writing the code in 1 monolith file, the mechanics of the program are abstracted into different classes. This takes advantage of the OOP paradigm and allows for easier readability of the code.
