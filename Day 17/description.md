@@ -1,0 +1,2 @@
+# Day 17
+The project for today is a quiz game. The game randomly selects a given number of questions from a short list of questions. The user is then given the question and prompted to answer if they thing it is true or false. If the answer is correct, the score is updated and the user is told they are correct. If it is wrong, the user is prompted and shown their current score.
