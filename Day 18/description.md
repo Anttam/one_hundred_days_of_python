@@ -1,0 +1,2 @@
+# Day 18
+The project for today is an "art" making turtle using the turtle GUI package. The turtle will place a dot of a random color on the screen,  move a set amount of places, then place another dot. Once it reaches 5 dots, it will determine if it should turn left or right for the next row. Once the turtle is finished, it will place the final dot and move out of the way so that you can admire it's artwork.
