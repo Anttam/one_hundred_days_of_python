@@ -1,0 +1,2 @@
+# Day 19
+The project for today is a turtle race. The user is prompted to bet on which color turtle they think will win the race. 6 turtles are then generated and moved to the starting position. each turtle then moves forward at a random pace. Once a turtle reaches the end of the screen, they are declared the winner. The player is then notified whether they won or lost in the console.
