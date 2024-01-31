@@ -1,0 +1,2 @@
+# Day 20
+The project for today is the first part of a 2 day project. The project is the game snake. The progress today was getting the snake to appear in the window, getting the snake to move, and accepting input from the user to get the snake to change direction
