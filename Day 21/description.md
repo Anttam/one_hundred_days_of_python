@@ -1,0 +1,2 @@
+# Day 21
+The project for today is the second half of the snake game. collisions with the walls, collecting food, and collision with the body of the snake have been added. The game also now ends with a game over if it detects a collision with either a wall or the snake's body
