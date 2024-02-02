@@ -1,0 +1,2 @@
+# Day 22
+The project for today is the game pong. A ball will bounce off of the top and bottom walls and the 2 players must try to keep the ball from going out on their side. If the ball goes out on your opponents side, you are awarded a point and the scoreboard is updated. 
