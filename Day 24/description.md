@@ -1,0 +1,2 @@
+# Day 24
+The project for today is a template letter writer. The program reads the template letter and the list of names, inserts each name into the `[name]` section of the template letter, then generates a new file that is ready to be sent.
