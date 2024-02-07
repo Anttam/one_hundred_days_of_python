@@ -1,0 +1,2 @@
+# Day 25
+The project for today is a state guessing game. The user enters the name of the state and if they are correct, the state pops up on the map. The game continues until the user successfully guesses every state.
