@@ -1,13 +1,12 @@
 import pandas
 
 df = pandas.read_csv('Day 26/nato_phonetic_alphabet.csv')
-letters_dict = {}
-coded_word = []
-for (index, row) in df.iterrows():
-  letters_dict.update({row.letter : row.code})
+
+letters_dict = {row.letter: row.code for (index, row) in df.iterrows()}
 
 word = input('Enter the word you would like to encode: ').upper()
-for letter in word:
-  coded_word.append(letters_dict[letter])
+
+coded_word = [letters_dict[letter] for letter in word]
+
 print(coded_word)
 
