@@ -1,0 +1,2 @@
+# Day 26
+The project for today is a NATO word encoder. The user inputs a word and the program reads from the dictionary the code for each of the letters in that word and prints a list of each NATO code for each of the letters.
