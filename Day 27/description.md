@@ -1,0 +1,2 @@
+# Day 27
+The project for today is a miles to kilometers converter with a GUI. The user inputs the number of miles they wish to convert to kilometers and press the calculate button. the program then calculates the kilometers and updates the GUI to display the conversion.
