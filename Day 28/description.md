@@ -1,0 +1,2 @@
+# Day 28
+The project for today is a Pomodoro timer. The user can hit the start button which starts a 25 minute work timer. Once the timer finishes, the user is given a 5 minute break timer. After 8 cycles of this, the user is given a 20 minute break timer. After each work timer finishes, the user is given a checkmark under the timer. At any point, the user can hit the reset button to stop the timer and they can start over again.
