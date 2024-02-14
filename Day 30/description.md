@@ -1,0 +1,2 @@
+# Day 30
+The project for today is an enhancement of the Password Manager from yesterday. Instead of writing to a .txt file, the data is stored in JSON. There is also proper exception handling implemented as well as a search functionality.
