@@ -1,0 +1,2 @@
+# Day 31
+The project for today is a French/English flashcard app. The user is given a french word and after 3 seconds, the english translation is revealed. If the user knew the word, they can hit the green check button and the word will be removed from the list. If the user did not know the word, they can hit the red X button and the word will be kept in the rotation.
