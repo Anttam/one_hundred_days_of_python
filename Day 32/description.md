@@ -1,0 +1,2 @@
+# Day 32
+The project for today is a birthday email sender. the app will read all the rows in the csv file provided and check if the current month and day are the same as the month and day in each row. If there is a match, the app will randomly select a birthday email template, write the person's name in the name field, and send it via email to the email in the row.
