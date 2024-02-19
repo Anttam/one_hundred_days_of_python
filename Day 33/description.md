@@ -1,0 +1,2 @@
+# Day 33
+The project for today is a notification system to alert the user if the ISS is currently overhead and visible. the ISS location is pulled from an API as well as the current sunrise and sunset for the prescribed coordinates (currently set to Philadelphia). If the ISS is within 5 degrees and it is currently dark outside, the app will send an email to the user to head outside and look for the ISS. 
