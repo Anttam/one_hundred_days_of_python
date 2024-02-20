@@ -1,0 +1,2 @@
+# Day 34
+The project for today is an upgrade to the quiz app project. This version has a GUI made with Tkinter as well as an update to the data. Instead of a list hard coded into the project, the information is pulled from the https://opentdb.com API.
