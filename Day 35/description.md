@@ -1,0 +1,2 @@
+# Day 35 
+The project for today is a weather notification app. the app checks the local weather from a 3rd party API and if the id code is below 700 (anything below 700 is some type of precipitation), the app will send an email to the user telling them to bring an umbrella. The Email, Password, and API key have all been abstracted into a .env file. A .gitignore file was also created to not upload this information in further pushes.
