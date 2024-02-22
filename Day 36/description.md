@@ -1,0 +1,2 @@
+# Day 36
+The project for today is a stock news notification system. The app will check the closing price of a particular stock yesterday and the day before yesterday. If there is a change of 5% in either direction, the app will then collect 3 news articles and send them to the user via email.
