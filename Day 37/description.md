@@ -1,0 +1,2 @@
+# Day 37
+The project for today is a habit tracker using pixela (https://pixe.la/index.html). The app takes the pre-generated token and username from the .env file to create the user. There is then a function to create a graph and subsequent functions to create, update, and delete pixels from that graph. 
