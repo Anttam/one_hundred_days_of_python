@@ -1,0 +1,2 @@
+# Day 38
+The project for today is an exercise tracking app. The user can enter the type of exercise they completed in plain english(ex: I ran a mile, I cycled for 25 mins). the text is then sent to the nutritionix API for processing. the date and time of the exercise are then entered using datetime and the type of exercise, duration, and calories burned are then pulled from the nutritionix API. This information is formatted and sent to the Sheety API which will saved the information to a google sheets spreadsheet.
