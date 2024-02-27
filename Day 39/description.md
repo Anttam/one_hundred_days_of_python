@@ -1,0 +1,2 @@
+# Day 39
+The project for today is a flight finder. The app will grab a list of cities from a google sheets spreadsheet, update the IATA codes if they are not available, and search for flights from the origin city, if the current price of the flight is cheaper than the last recorded price, the app will send an email notification to the user to tell them about the price drop.
