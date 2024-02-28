@@ -1,0 +1,2 @@
+# Day 40
+The project for today is a refactoring of the flight price tracker from yesterday. Now the app asks to add a user on start. it will then go through as normal and check if there are any cheaper flights in the google sheet of prices. Instead of sending an email to 1 user, the app will go through a google sheet with all the users and send an email to each one.
