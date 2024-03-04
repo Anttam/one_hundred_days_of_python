@@ -1,0 +1,2 @@
+# Day 43
+The project for today is a basic webpage that shows the names of colors in Spanish. This website incorporates basic CSS to change the font color of the Spanish word of the color. I also changed the background color to a light gray to make the yellow color more visible.
