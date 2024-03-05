@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  width: 600px;
+  margin: auto;
+  background-color: black;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+}
+
+.container{
+  padding: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem
+}
+img{
+  border: 5px solid white;
+  width: 100%;
+}
+
+h1{
+  text-transform: uppercase;
+  letter-spacing: 10px;
+}
