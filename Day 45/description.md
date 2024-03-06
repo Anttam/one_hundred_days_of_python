@@ -1,0 +1,2 @@
+# Day 45
+The project for today is a web scraper that scrapes the top 100 movies from empireonline.com on May 18th 2020 via the wayback machine. The app then pulls the movie titles from the html document and saves them to a .txt file. 
