@@ -1,0 +1,2 @@
+# Day 48
+The project for today is a bot that plays the game cookie clicker. The bot continuously clicks the cookie and every 5 seconds will check to see if it can afford the most expensive item in the shop. after 5 minutes, the bot stops and prints out the cookies per second it generated.
