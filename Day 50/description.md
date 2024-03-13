@@ -1,0 +1,2 @@
+# Day 50
+The project for today is an auto tinder swiping bot. The app reads the login information from the local .env file and signs in via Facebook. The bot then swipes right 100 times. The bot also handles exceptions for the like button not being there by waiting and trying again as well as closing out the pop up if there is a match.
