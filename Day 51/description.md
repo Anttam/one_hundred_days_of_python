@@ -1,0 +1,2 @@
+# Day 51
+The project for today is a twitter complaint bot. The bot runs an internet speed test and if the upload or download speed is less then the promised speed, the bot will log in to twitter and send a tweet to the internet provider.
