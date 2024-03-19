@@ -1,0 +1,2 @@
+# Day 53
+The project for today is a bot that finds 1 bedroom apartments for rent in San Francisco for less thank $3,000. The bot then takes the address, price, and the link to the listing and submits it to a google form for each listing on the page.
