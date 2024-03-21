@@ -1,0 +1,2 @@
+# Day 55
+The project for today is a higher or lower game using a web server. The app randomly selects a number between 0 and 9 and the user can enter the number as a endpoint as a guess. The app will tell the user if their guess is too low, too high, or if they guessed correctly.
