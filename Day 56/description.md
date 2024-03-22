@@ -1,0 +1,2 @@
+# Day 56
+The project for today is another web server with Flask. This project uses a template from from html5up.net/ that has been customized. The server will serve the template as well as all static files when the root is requested. 
