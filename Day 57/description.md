@@ -1,0 +1,2 @@
+# Day 57
+The project for today is a blog site. The user can visit the home page and see a preview of all blog posts. The user can then click on the link to read the entire post and be redirected to the page with the body of the blog post.
