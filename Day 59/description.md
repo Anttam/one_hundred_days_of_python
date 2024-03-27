@@ -1,0 +1,2 @@
+# Day 59
+The project for today is another web server for a blog. This site takes advantage of the templating characteristics of Flask through Jinja by abstracting the HTML head and nav as well as the footer and the javascript tags. This site also uses bootstrap for all of the styles and javascript. The posts are pulled from an API and rendered dynamically through the post.html template
