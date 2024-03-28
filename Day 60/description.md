@@ -1,0 +1,2 @@
+# Day 60
+The project for today is added functionality to the blog web server from the previous days. This project focuses on adding functionality to the contact form. The user can now submit a message with their contact information that will then be sent to the blog owner via email. There is also now conditional formatting of the contact page if the user has sent a message.
