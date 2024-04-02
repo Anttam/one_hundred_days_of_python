@@ -1,0 +1,2 @@
+# Day 61
+The project for today is a simple form using Flask WTF. THe user can navigate to the login page from the index.html. Then the user can put in an email and password. If the email and password matches the required email and password, the user will be directed to the secret page. If they do not match the required email or password, they will be directed to the denied page.
