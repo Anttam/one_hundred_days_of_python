@@ -1,0 +1,2 @@
+# Day 62
+The project for today is a table rating cafes based on their coffee, wifi strength, and outlet availability. The index page has a button that navigates to the table with the name of each cafe, the opening and closing times, a link to the maps location, and all of the ratings. There is also a hidden endpoint /add where you can add a new cafe. The form is rendered with Bootstrap and has server side validation for all of the fields as well as a url validation for the site field.
