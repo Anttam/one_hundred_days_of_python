@@ -1,0 +1,2 @@
+# Day 64
+The project for today is a movie ranking website. The movies that are ranked are saved to a local database. The user has the ability to perform all CRUD actions on the rankings. When adding a movie, the app will send a request to themoviedb.org and will display a list of all the possible movies the user was trying to add. The user can then select which movie they were looking for.
