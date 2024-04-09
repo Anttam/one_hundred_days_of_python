@@ -1,0 +1,2 @@
+# Day 66
+The project for today is a simple API for a cafe database. The user can get all the cafes, get a random cafe, search for a cafe, get all cafes, add a new cafe, update the price of coffee at a cafe, and delete a cafe that is shut down. 
