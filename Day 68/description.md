@@ -1,0 +1,2 @@
+# Day 68
+The project for today is centered around user authentication. The user can sign in to access a secret file. The user can also sign up to be able to access the file. The password is hashed and salted for security purposes then stored in the users database. 
