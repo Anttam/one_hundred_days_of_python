@@ -1,0 +1,2 @@
+# Day 69
+The project for today is another improvement to the blog project. Now there are users that have the ability to register and login in as well as comment on blog posts. There is also an admin account that has the ability to add and delete blog posts. 
