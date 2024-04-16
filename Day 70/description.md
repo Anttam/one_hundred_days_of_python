@@ -1,0 +1,2 @@
+# Day 70
+The project for today was a basic overview if git and github. The instructional videos showed local and remote repositories, adding a gitignore file, cloning a repo, branching a repo, merging a repo, and forking/pull requests. As this entire project to this point has been uploaded to a repo, I did not find it necessary to create the example repos and perform all the actions show.
