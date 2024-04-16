@@ -1,0 +1,2 @@
+# Day 71
+The project for today is deploying the blog website via render.com. to simplify this process, a new repo named "blog_project_python" was created. The process involved setting the environment variables via the render.com GUI and creating a postgres DB. You can visit the deployed site at this URL: https://blog-project-python-whz7.onrender.com/
