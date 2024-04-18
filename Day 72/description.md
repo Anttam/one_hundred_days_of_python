@@ -1,0 +1,2 @@
+# Day 72
+The project for today was a basic exploration of data on the median salaries of college majors with pandas within a jupyter notebook. I cleaned the data, and added a column showing the spread column to the data frame. 
