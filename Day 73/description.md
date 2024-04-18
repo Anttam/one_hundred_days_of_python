@@ -1,0 +1,2 @@
+# Day 73
+The project for today was a data analysis of the programming language tags post data from stack overflow. The data is pivoted to show the programming languages as the columns and the months as each row. This data is then plotted using matplotlib to create line charts showing the comparisons amongst the languages
