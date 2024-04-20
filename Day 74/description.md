@@ -1,0 +1,2 @@
+# Day 74
+The project for today is exploring multiple data sets on Legos. On top of using pandas to explore the data, I used matplotlib to create a line chart, scatter plot, and bar chart to observe the data visually. Additionally I merged 2 the themes data frame with a count for each individual theme to plot them in the bar chart to show the 10 most themes of all of the lego sets 
